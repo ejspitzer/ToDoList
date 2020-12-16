@@ -12,8 +12,8 @@
 
 This project was created to practise JavaScript objects and to learn localStorage. It uses localStorage to store tasks and displays them on reload. Each task is saved as an object with three properties _(title, important and complete)_.
 
-![Screen shot 1](images\screen_shot-1.PNG)
-![Screen shot 2](images\screen_shot-2.PNG)
+![Screen shot 1](images/screen_shot-1.PNG)
+![Screen shot 2](images/screen_shot-2.PNG)
 
 ## Technologies
 
